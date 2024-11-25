@@ -4,6 +4,13 @@
 # 3. Push to github
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
+title: "Data Visualization Homework"
+author: "Yu-Wen (Yvonne) Yang"
+description: "Altair + Python Visualizations"
+theme: minima
+
+
+
 ### Site Settings ###
 title               : IS445 Jekyll hw6#1 
 description         : >-
