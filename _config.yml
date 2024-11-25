@@ -73,5 +73,6 @@ exclude:
   - LICENSE.md~
   - config.yml~
   - "*.log"
-  - "*.ipynb"
+  - building_visualizations.ipynb
+  - _posts/data-viz-homework.md
   - "python_notebooks/*"
