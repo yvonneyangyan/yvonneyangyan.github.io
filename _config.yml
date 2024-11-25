@@ -10,16 +10,16 @@ title: Data Visualization Homework
 description: Altair + Python Visualizations
 date: 2024-11-24
 theme: minima
-posts:
-  output: true
+collections:
+  posts:
+    output: true
+permalink: /:year/:month/:day/:title/
 
-
-### Plugins ###
 plugins:
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-paginate-v2
-  - mini_magick
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page:num/"
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -31,7 +31,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yvonne1 Yang
+  name              : Yvonne12 Yang
 ###  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
@@ -66,6 +66,4 @@ exclude:
   - LICENSE.md~
   - config.yml~
   - "*.log"
-  - building_visualizations.ipynb
-  - _posts/data-viz-homework.md
   - "python_notebooks/*"
