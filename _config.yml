@@ -4,17 +4,19 @@
 # 3. Push to github
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
+
 layout: post
 title: "Data Visualization Homework"
 author: "Yu-Wen (Yvonne) Yang"
 description: "Altair + Python Visualizations"
+date: 2024-11-24
 theme: minima
 
 collections:
   posts:
     output: true
 
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 
 ### Plugins ###
