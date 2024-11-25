@@ -28,7 +28,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yvonne1 Yang
+  name              : Yvonne1222 Yang
 ###  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : yvonneyangyan
 # dribbble          : yvonneyangyan
@@ -55,6 +55,7 @@ author:
 ### Exclude from processing ###
 ## Add yours here if you have other stuff in your github.io page!!!**
 exclude:
+  - README.md
   - README.md~
   - CONTRIBUTING.md
   - LICENSE.md
