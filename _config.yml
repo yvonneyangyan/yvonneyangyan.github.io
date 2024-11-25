@@ -7,7 +7,6 @@
 
 layout: post
 title: "Data Visualization Homework"
-author: Yvonne Yang
 description: "Altair + Python Visualizations"
 date: 2024-11-24
 theme: minima
@@ -39,7 +38,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yu-Wen (Yvonne) Yang
+  name              : Yvonne Yang
   image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
