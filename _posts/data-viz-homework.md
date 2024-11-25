@@ -17,7 +17,7 @@ This map shows the distribution of buildings across different cities in Illinois
 **Data Transformations**:
 We cleaned the data by removing null values in "City" and aggregated square footage by city.
 
-**[The Data](https://github.com/yvonneyangyan/yvonneyangyan.github.io/main/building_inventory.csv)**  
+**[The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)**  
 **[The Analysis](https://github.com/yvonneyangyan/yvonneyangyan.github.io/blob/main/building_visualizations.ipynb)**
 
 ### Visualization 2: Bar Chart
