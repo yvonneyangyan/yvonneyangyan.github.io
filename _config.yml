@@ -6,8 +6,8 @@
 
 
 layout: post
-title: "Data Visualization Homework"
-description: "Altair + Python Visualizations"
+title: Data Visualization Homework
+description: Altair + Python Visualizations
 date: 2024-11-24
 theme: minima
 
@@ -25,9 +25,6 @@ plugins:
   - jekyll-paginate-v2
   - mini_magick
 
-### To specify which port to host locally on -- use if you have multiple sites you want to host 
-### port: 4008
-
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
@@ -38,8 +35,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yvonne Yang
-  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
+  name              : Yvonne1 Yang
+###  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
@@ -66,7 +63,6 @@ author:
 ### Exclude from processing ###
 ## Add yours here if you have other stuff in your github.io page!!!**
 exclude:
-  - README.md
   - README.md~
   - CONTRIBUTING.md
   - LICENSE.md
