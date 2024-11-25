@@ -5,21 +5,22 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 
-layout: post
-title: Data Visualization Homework
-description: Altair + Python Visualizations
-date: 2024-11-24
-theme: minima
-collections:
-  posts:
-    output: true
-permalink: /:year/:month/:day/:title/
+### Site Settings ###
+title               : IS445 Data viz homework
+description         : >-
+                      I am a corgi!
+baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+#                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
+repository          : yvonneyangyan  # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+
+### Plugins ###
 plugins:
-  - jekyll-paginate
-
-paginate: 5
-paginate_path: "/page:num/"
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - mini_magick
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -31,13 +32,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yvonne12 Yang
+  name              : Yvonne123 Yang
 ###  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
-#  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-#  facebook          : your_username
-  github            : jnaiman # JPN
+#  behance           : yvonneyangyan
+# dribbble          : yvonneyangyan
+  email             : yvonneyangyan@domain.com
+#  facebook          : yvonne yang
+  github            : yvonneyangyan # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -53,6 +54,8 @@ author:
   youtube           : your_channel_name
 # keybase           : your_username
 
+### Posts ###
+permalink: /_posts/data-viz-homework
 
 
 
