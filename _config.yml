@@ -6,14 +6,6 @@
 
 
 ### Site Settings ###
-title               : IS445 Data viz homework
-description         : >-
-                      I am a corgi!
-baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
-#                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : yvonneyangyan  # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
-
-
 collections:
   posts:
     output: true
