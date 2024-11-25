@@ -11,10 +11,6 @@ description: Altair + Python Visualizations
 date: 2024-11-24
 theme: minima
 
-collections:
-  posts:
-    output: true
-
 permalink: /:year/:month/:day/:title/
 
 
@@ -63,6 +59,7 @@ author:
 ### Exclude from processing ###
 ## Add yours here if you have other stuff in your github.io page!!!**
 exclude:
+  - README.md
   - README.md~
   - CONTRIBUTING.md
   - LICENSE.md
