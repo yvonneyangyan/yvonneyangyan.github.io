@@ -19,12 +19,6 @@ collections:
     output: true
 permalink: /_posts/data-viz-homework
 
-plugins:
-  - jekyll-paginate
-
-paginate: 5
-paginate_path: "/page:num/"
-
 ### Plugins ###
 plugins:
   - jekyll-archives
@@ -42,7 +36,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Yvonne12 Yang
+  name              : Yvonne112 Yang
 ###  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : yvonneyangyan
 # dribbble          : yvonneyangyan
