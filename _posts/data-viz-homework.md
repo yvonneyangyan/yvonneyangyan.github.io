@@ -17,8 +17,8 @@ This map shows the distribution of buildings across different cities in Illinois
 **Data Transformations**:
 We cleaned the data by removing null values in "City" and aggregated square footage by city.
 
-**[The Data](https://github.com/YOUR_USERNAME/your-repo/raw/main/building_inventory.csv)**  
-**[The Analysis](https://github.com/YOUR_USERNAME/your-repo/blob/main/building_visualizations.ipynb)**
+**[The Data](https://github.com/yvonneyangyan/yvonneyangyan.github.io/raw/main/building_inventory.csv)**  
+**[The Analysis](https://github.com/yvonneyangyan/yvonneyangyan.github.io/blob/main/building_visualizations.ipynb)**
 
 ### Visualization 2: Bar Chart
 This bar chart compares total square footage across different building statuses. The interactivity includes a dropdown to switch metrics and a slider to filter by acquisition year.
@@ -30,8 +30,8 @@ This bar chart compares total square footage across different building statuses.
 **Data Transformations**:
 We grouped the data by "Bldg Status" and calculated the sum of square footage. Missing values in "Year Acquired" were imputed using the median.
 
-**[The Data](https://github.com/YOUR_USERNAME/your-repo/raw/main/building_inventory.csv)**  
-**[The Analysis](https://github.com/YOUR_USERNAME/your-repo/blob/main/building_visualizations.ipynb)**
+**[The Data](https://github.com/yvonneyangyan/yvonneyangyan.github.io/raw/main/building_inventory.csv)**  
+**[The Analysis](https://github.com/yvonneyangyan/yvonneyangyan.github.io/blob/main/building_visualizations.ipynb)**
 
 ## Publishing
-To view the visualizations, check out the live demo on [GitHub Pages](https://YOUR_USERNAME.github.io/).
+To view the visualizations, check out the live demo on [GitHub Pages](https://yvonneyangyan.github.io/).
