@@ -30,7 +30,7 @@ This bar chart compares total square footage across different building statuses.
 **Data Transformations**:
 We grouped the data by "Bldg Status" and calculated the sum of square footage. Missing values in "Year Acquired" were imputed using the median.
 
-**[The Data](https://github.com/yvonneyangyan/yvonneyangyan.github.io/main/building_inventory.csv)**  
+**[The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)**  
 **[The Analysis](https://github.com/yvonneyangyan/yvonneyangyan.github.io/blob/main/building_visualizations.ipynb)**
 
 ## Publishing
